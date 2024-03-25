@@ -1,21 +1,26 @@
-# LIBRAIRIES DE TEST
-Page publique contenant des liens utiles en relation avec ANGULAR, SPRING-BOOT, JAVA etc...
 
 - [LIBRAIRIES DE TEST](#librairies-de-test)
-  - [Librairies de test - ANGULAR](#librairies-de-test---angular)
+  - [1 - Librairies de test ANGULAR](#1---librairies-de-test-angular)
     - [JASMINE](#jasmine)
     - [JEST](#jest)
     - [CYPRESS](#cypress)
     - [PROTRACTOR](#protractor)
-  - [Librairies de test - JAVA](#librairies-de-test---java)
+  - [2 - Librairies de test JAVA](#2---librairies-de-test-java)
     - [JUNIT 5](#junit-5)
     - [SELENIUM](#selenium)
     - [CUCUMBER](#cucumber)
 - [LIBRAIRIES DE COMPOSANTS VISUELS](#librairies-de-composants-visuels)
     - [NG-ZORRO](#ng-zorro)
 
+# LIBRAIRIES DE TEST
+Une librairie de test fournit généralement des fonctionnalités pour :
 
-## Librairies de test - ANGULAR
+- Définir et organiser les tests
+- Faire des assertions (vérifier que certaines conditions sont vraies)
+- Simuler des comportements (par exemple, simuler des requêtes réseau)
+- Générer et afficher des rapports de test
+
+## 1 - Librairies de test ANGULAR
 ### JASMINE
 ![alt text](<IMG/Jasmine Js.png>)
 
@@ -58,7 +63,7 @@ Jest a été créé par [Facebook](https://www.facebook.com/MetaOpenSource). C'e
 - [Protractor testing tutorial](https://www.guru99.com/protractor-testing.html) (lien Guru99)
 - [Recherche Google: #protractor and  #angular](https://www.google.com/search?q=%23protractor+and++%23angular&sca_esv=6046820b85816b8d&tbas=0&source=lnt&sa=X&ved=2ahUKEwjzqt6u2I-FAxUgdaQEHeDlD_wQpwV6BAgBEAs&biw=1512&bih=857&dpr=2) (lien Google)
 
-## Librairies de test - JAVA
+## 2 - Librairies de test JAVA
 ### JUNIT 5
 ![alt text](<IMG/Junit 5.png>)
 
