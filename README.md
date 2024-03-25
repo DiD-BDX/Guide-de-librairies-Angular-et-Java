@@ -1,7 +1,7 @@
-# Veille-Technologique
+# LIBRAIRIES DE TEST
 Page publique contenant des liens utiles en relation avec ANGULAR, SPRING-BOOT, JAVA etc...
 
-- [Veille-Technologique](#veille-technologique)
+- [LIBRAIRIES DE TEST](#librairies-de-test)
   - [Librairies de test - ANGULAR](#librairies-de-test---angular)
     - [JASMINE](#jasmine)
     - [JEST](#jest)
@@ -10,6 +10,9 @@ Page publique contenant des liens utiles en relation avec ANGULAR, SPRING-BOOT, 
   - [Librairies de test - JAVA](#librairies-de-test---java)
     - [JUNIT 5](#junit-5)
     - [SELENIUM](#selenium)
+    - [CUCUMBER](#cucumber)
+- [LIBRAIRIES DE COMPOSANTS VISUELS](#librairies-de-composants-visuels)
+    - [NG-ZORRO](#ng-zorro)
 
 
 ## Librairies de test - ANGULAR
@@ -75,6 +78,25 @@ Jest a été créé par [Facebook](https://www.facebook.com/MetaOpenSource). C'e
 - [Selenium sur GitHub](https://github.com/SeleniumHQ/seleniumhq.github.io) (lien GitHub)
 - [Tutoriel Selenium](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/tutoriel-selenium-webdriver/) (lien ionos.fr)
 - [Recherche Google: #seleniumjs](https://www.google.com/search?q=%23seleniumjs&oq=%23seleniumjs&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDc5MDJqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1) (lien Google)
-  
+
+### CUCUMBER
+![alt text](IMG/cucumber.png)
+
+[Cucumber](https://cucumber.io/docs/guides/overview/) est un outil de test qui supporte le développement piloté par le comportement (Behavior-Driven Development, BDD). Il a été initialement développé en Ruby par Aslak Hellesøy en 2008. Cucumber.js est l'implémentation de Cucumber pour JavaScript. C'est une bibliothèque open source maintenue par une communauté de développeurs.
+
+- [Site Officiel](https://cucumber.io/docs/installation/) (lien cucumber.io)
+- [Cucumber sur GitHub](https://github.com/cucumber/) (lien GitHub)
+- [Cucumber tutorial](https://www.toolsqa.com/cucumber-tutorial) (lien toolsqa.com)
+- [Recherche Google: #cucumberjs](https://www.google.com/search?q=%23cucumberjs&sca_esv=83a32caac141be1d&ei=wZwBZs6MHvO6seMPzPaHsAQ&ved=0ahUKEwiO8Z3R4Y-FAxVzXWwGHUz7AUYQ4dUDCBA&uact=5&oq=%23cucumberjs&gs_lp=Egxnd3Mtd2l6LXNlcnAiCyNjdWN1bWJlcmpzMgYQABgeGAoyBhAAGB4YCjIGEAAYHhgKMgYQABgeGAoyBBAAGB4yBhAAGB4YCjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHkjNHlCIBVjHHHABeAGQAQCYAVugAagGqgECMTC4AQPIAQD4AQGYAgqgAoAGwgIKEAAYRxjWBBiwA8ICCxAAGIAEGLEDGIMBwgIFEC4YgATCAgUQABiABMICAhAmwgIHEC4YHhjUApgDAIgGAZAGCJIHAjEwoAeeNA&sclient=gws-wiz-serp) (lien Google)
+
+
+# LIBRAIRIES DE COMPOSANTS VISUELS
+Ces librairies sont souvent utilisées dans le développement web pour accélérer le processus de développement. Au lieu de créer chaque composant à partir de zéro, les développeurs peuvent utiliser et personnaliser les composants préexistants de la librairie.
+
+### NG-ZORRO
+
+
+
+
 
 
