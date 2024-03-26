@@ -1,6 +1,6 @@
 <h1>TABLE DES MATIERES:</h1>
 
-- [LIBRAIRIES DE TEST](#librairies-de-test)
+- [LIBRAIRIES JAVA \& ANGULAR](#librairies-java--angular)
   - [1 - Librairies de test ANGULAR](#1---librairies-de-test-angular)
     - [JASMINE](#jasmine)
     - [JEST](#jest)
@@ -10,10 +10,12 @@
     - [JUNIT 5](#junit-5)
     - [SELENIUM](#selenium)
     - [CUCUMBER](#cucumber)
-- [LIBRAIRIES DE COMPOSANTS VISUELS](#librairies-de-composants-visuels)
-    - [NG-ZORRO](#ng-zorro)
+  - [3 - LIBRAIRIES DE COMPOSANTS VISUELS](#3---librairies-de-composants-visuels)
+    - [ NG-ZORRO](#-ng-zorro)
+    - [ ANGULAR MATERIAL](#-angular-material)
+    - [ PRIMENG](#-primeng)
 
-# LIBRAIRIES DE TEST
+# LIBRAIRIES JAVA & ANGULAR
 Une librairie de test fournit généralement des fonctionnalités pour :
 
 - Définir et organiser les tests
@@ -96,10 +98,38 @@ Jest a été créé par [Facebook](https://www.facebook.com/MetaOpenSource). C'e
 - [Recherche Google: #cucumberjs](https://www.google.com/search?q=%23cucumberjs&sca_esv=83a32caac141be1d&ei=wZwBZs6MHvO6seMPzPaHsAQ&ved=0ahUKEwiO8Z3R4Y-FAxVzXWwGHUz7AUYQ4dUDCBA&uact=5&oq=%23cucumberjs&gs_lp=Egxnd3Mtd2l6LXNlcnAiCyNjdWN1bWJlcmpzMgYQABgeGAoyBhAAGB4YCjIGEAAYHhgKMgYQABgeGAoyBBAAGB4yBhAAGB4YCjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHkjNHlCIBVjHHHABeAGQAQCYAVugAagGqgECMTC4AQPIAQD4AQGYAgqgAoAGwgIKEAAYRxjWBBiwA8ICCxAAGIAEGLEDGIMBwgIFEC4YgATCAgUQABiABMICAhAmwgIHEC4YHhjUApgDAIgGAZAGCJIHAjEwoAeeNA&sclient=gws-wiz-serp) (lien Google)
 
 
-# LIBRAIRIES DE COMPOSANTS VISUELS
+## 3 - LIBRAIRIES DE COMPOSANTS VISUELS
 Ces librairies sont souvent utilisées dans le développement web pour accélérer le processus de développement. Au lieu de créer chaque composant à partir de zéro, les développeurs peuvent utiliser et personnaliser les composants préexistants de la librairie.
 
-### NG-ZORRO
+### ![alt text](IMG/ng-zorro.png) NG-ZORRO
+
+[NG-ZORRO](https://ng.ant.design/docs/introduce/en) est basée sur Ant Design. Elle a été créée par une équipe de développeurs de l'entreprise chinoise Alibaba. NG-ZORRO offre une variété de composants d'interface utilisateur prêts à l'emploi.
+
+- [Site officiel - Getting started](https://ng.ant.design/docs/getting-started/en) (lien ng.ant.design)
+- [Ng-Zorro sur GitHub](https://github.com/NG-ZORRO/ng-zorro-antd) (lien GitHub)
+- [News about NG-ZORRO on Medium](https://medium.com/search?q=ng-zorro) (lien medium.com)
+- [Recherche Google: #ng-zorro how to](https://www.google.com/search?q=%23ng-zorrohowto&sca_esv=ab02dd2696e7e4b9&ei=L_UCZrLdIs-YkdUPqa2Y-A4&ved=0ahUKEwjysPSNqpKFAxVPTKQEHakWBu8Q4dUDCBA&uact=5&oq=%23ng-zorrohowto&gs_lp=Egxnd3Mtd2l6LXNlcnAiDiNuZy16b3Jyb2hvd3RvMggQABiABBiiBDIIEAAYgAQYogRI_0dQ-zZYx0VwAXgBkAEAmAFuoAHqAqoBAzQuMbgBA8gBAPgBAZgCBqAC_wLCAgoQABhHGNYEGLADwgIGEAAYHhgNmAMAiAYBkAYIkgcDNS4xoAfzEA&sclient=gws-wiz-serp) (lien Google)
+
+### ![alt text](<IMG/angular material.png>) ANGULAR MATERIAL
+
+[Angular Material](https://material.angular.io/) est une bibliothèque de composants d'interface utilisateur pour Angular. Elle a été créée par l'équipe Angular de Google. Angular Material suit les principes de Material Design, un système de design développé par Google.
+
+- [Site officiel: Getting started](https://material.angular.io/guide/getting-started) (lien material.angular.io)
+- [Angular Material sur GitHub](https://github.com/angular/components) (lien GitHub)
+- [Recherche Google: angular material tutorial](https://www.google.com/search?sca_esv=704ad41e8b2a1eb5&q=angular+material+tutorial&spell=1&sa=X&ved=2ahUKEwiaptixrZKFAxXOTaQEHUICB6MQBSgAegQICBAC&biw=1512&bih=857&dpr=2#ip=1) (lien Google)
+- [News about Angular Material on Medium](https://medium.com/search?q=angular+material) (lien medium.com)
+
+
+### ![alt text](IMG/primeng.png) PRIMENG
+
+[PrimeNG](https://primeng.org/) est une collection de composants d'interface utilisateur riches pour Angular. Elle a été créée par PrimeTek Informatics, une société spécialisée dans le développement de logiciels open source. PrimeNG offre une variété de composants, allant des éléments de base comme les boutons et les listes déroulantes, aux composants plus complexes comme les tableaux de données, les graphiques et les arbres.
+
+- [Site officiel: Getting started](https://primeng.org/installation) (lien primeng.org)
+- [PrimeNG sur GitHub](https://github.com/primefaces/primeng) (lien GitHub)
+- [Tutorial video by Primefaces.org](https://www.primefaces.org/primeng-v14-lts/setup) (lien primefaces.org)
+- [News about PrimeNG on Medium](https://medium.com/search?q=primeng) (lien medium.com)
+- [Recherche Google: #primeng](https://www.google.com/search?q=%23primeng&sca_esv=ab02dd2696e7e4b9&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjh67LctZKFAxVnRaQEHarYBL4QpwV6BAgDEBA&biw=1512&bih=857&dpr=2) (lien Google)
+  
 
 
 
