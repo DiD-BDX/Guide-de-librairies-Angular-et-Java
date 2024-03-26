@@ -1,3 +1,6 @@
+> [!NOTE]
+>Ce fichier est un guide pour naviguer à travers diverses librairies Java et Angular. Vous y trouverez des informations sur des librairies de test ainsi que des librairies de composants visuels. Pour chaque librairie, des liens utiles sont fournis pour vous aider à démarrer. Bonne exploration !
+
 <h1>TABLE DES MATIERES:</h1>
 
 - [LIBRAIRIES JAVA \& ANGULAR](#librairies-java--angular)
