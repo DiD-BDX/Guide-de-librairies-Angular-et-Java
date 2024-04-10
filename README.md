@@ -17,6 +17,8 @@
     - [ NG-ZORRO](#-ng-zorro)
     - [ ANGULAR MATERIAL](#-angular-material)
     - [ PRIMENG](#-primeng)
+- [MAGASINES SUR ANGULAR](#magasines-sur-angular)
+  - [1 - FLIPBOARD](#1---flipboard)
 
 # LIBRAIRIES JAVA & ANGULAR
 Une librairie de test fournit généralement des fonctionnalités pour :
@@ -132,7 +134,16 @@ Ces librairies sont souvent utilisées dans le développement web pour accélér
 - [Tutorial video by Primefaces.org](https://www.primefaces.org/primeng-v14-lts/setup) (lien primefaces.org)
 - [News about PrimeNG on Medium](https://medium.com/search?q=primeng) (lien medium.com)
 - [Recherche Google: #primeng](https://www.google.com/search?q=%23primeng&sca_esv=ab02dd2696e7e4b9&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjh67LctZKFAxVnRaQEHarYBL4QpwV6BAgDEBA&biw=1512&bih=857&dpr=2) (lien Google)
-  
+
+
+
+# MAGASINES SUR ANGULAR
+
+## 1 - FLIPBOARD
+
+Flipboard est une plateforme de contenu numérique qui agrège des articles, des photos, des vidéos et d'autres contenus de diverses sources en ligne. Possibilité de personnaliser le flux de contenu en fonction des intérêts, créer des magazines et partager du contenu.
+
+- [The Angular magasine](https://flipboard.com/@dwahlin/the-angular-magazine-f66o0fd8z) (By Dan Wahlin)
 
 
 
